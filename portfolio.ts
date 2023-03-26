@@ -12,24 +12,24 @@ import {
 } from './types/sections';
 
 export const greetings: GreetingsType = {
-  name: 'Hanzla Tauqeer',
-  title: "Hi all, I'm Hanzla",
+  name: 'Ronel Gonzales',
+  title: "Hi all, I'm Ronel",
   description:
-    "I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
+    "I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js , Nuxt.js and Laravel Framework.",
   resumeLink:
     'https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing',
 };
 
 export const openSource = {
-  githubUserName: '1hanzla100',
+  githubUserName: 'gronel',
 };
 
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  url: 'https://1hanzla100.github.io/',
+  url: 'https://github.com/gronel',
   linkedin: 'https://www.linkedin.com/in/1hanzla100/',
-  github: 'https://github.com/1hanzla100',
+  github: 'https://github.com/gronel',
   instagram: 'https://www.instagram.com/__hanzla100',
   facebook: 'https://www.facebook.com/1hanzla100',
   twitter: 'https://twitter.com/1hanzla100',
@@ -46,8 +46,9 @@ export const skillsSection: SkillsSectionType = {
         emoji(
           '⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js'
         ),
-        emoji('⚡ Building responsive static websites using Next.js'),
-        emoji('⚡ Building RESTful APIs in Django & Django REST Framework'),
+        emoji('⚡ Building responsive static websites using Next.js, Laravel, .Net Framework'),
+        emoji('⚡ Building RESTful APIs in Django & Django REST Framework , Laravel Framework, .Net Framework'),
+        emoji('⚡ Building mobile application using Java,Kotlin ,React Native, Ionic and Flutter '),
       ],
       softwareSkills: [
         {
@@ -90,6 +91,18 @@ export const skillsSection: SkillsSectionType = {
         {
           skillName: 'Yarn',
           fontAwesomeClassName: 'logos:yarn',
+        },
+        {
+          skillName: 'Flutter',
+          fontAwesomeClassName: 'vscode-icons:file-type-flutter',
+        },
+        {
+          skillName: 'Laravel',
+          fontAwesomeClassName: 'vscode-icons:file-type-blade',
+        },
+        {
+          skillName: 'Ionic',
+          fontAwesomeClassName: 'vscode-icons:file-type-ionic',
         },
       ],
     },
@@ -149,47 +162,7 @@ export const skillsSection: SkillsSectionType = {
         },
       ],
     },
-    {
-      title: 'Blockchain',
-      lottieAnimationFile: '/lottie/skills/ethereum.json', // Path of Lottie Animation JSON File
-      skills: [
-        emoji(
-          '⚡ Experience in developing Smart Contract using Solidity & Ethereum'
-        ),
-        emoji(
-          '⚡ Building Scripts for automated testing & deployment of Smart Contracts using Brownie & Infura'
-        ),
-        emoji(
-          '⚡ Experience of using Openzeppelin Smart Contract Standards & Chainlink Oracles'
-        ),
-        emoji('⚡ Developing NFT Smart Contracts using ERC-721 Token Standard'),
-        emoji(
-          '⚡ Building Dapps with React.js & Solidity using Web3.js, Moralis & IPFS'
-        ),
-      ],
-      softwareSkills: [
-        {
-          skillName: 'Ethereum',
-          fontAwesomeClassName: 'logos:ethereum',
-        },
-        {
-          skillName: 'Solidity',
-          fontAwesomeClassName: 'logos:solidity',
-        },
-        {
-          skillName: 'Web3js',
-          fontAwesomeClassName: 'logos:web3js',
-        },
-        {
-          skillName: 'Metamask',
-          fontAwesomeClassName: 'logos:metamask-icon',
-        },
-        {
-          skillName: 'Ganache',
-          fontAwesomeClassName: 'logos:ganache-icon',
-        },
-      ],
-    },
+    
   ],
 };
 
@@ -299,19 +272,19 @@ export const showContactUs: boolean = true;
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: 'Hanzla Tauqeer',
+  title: 'Ronel Gonzales',
   description:
     'A passionate Full Stack Web Developer and Blockchain Developer.',
-  author: 'Hanzla Tauqeer',
+  author: 'Ronel Gonzales',
   image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
   url: 'https://developer-portfolio-1hanzla100.vercel.app',
   keywords: [
-    'Hanzla',
-    'Hanzla Tauqeer',
-    '@1hanzla100',
-    '1hanzla100',
+    'Ronel',
+    'Ronel Gonzales',
+    '@gronel',
+    'gronel',
     'Portfolio',
-    'Hanzla Portfolio ',
-    'Hanzla Tauqeer Portfolio',
+    'Ronel Portfolio ',
+    'Ronel Gonzales Portfolio',
   ],
 };
