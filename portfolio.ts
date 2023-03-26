@@ -30,8 +30,8 @@ export const socialLinks: SocialLinksType = {
   url: 'https://github.com/gronel',
   linkedin: 'https://www.linkedin.com/in/1hanzla100/',
   github: 'https://github.com/gronel',
-  instagram: 'https://www.instagram.com/__hanzla100',
-  facebook: 'https://www.facebook.com/1hanzla100',
+  instagram: 'https://www.linkedin.com/in/ronelgonzales5/',
+  facebook: 'https://www.facebook.com/gronel',
   twitter: 'https://twitter.com/1hanzla100',
 };
 
