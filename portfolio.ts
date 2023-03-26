@@ -28,9 +28,9 @@ export const contact = {};
 
 export const socialLinks: SocialLinksType = {
   url: 'https://github.com/gronel',
-  linkedin: 'https://www.linkedin.com/in/1hanzla100/',
+  linkedin: 'https://www.linkedin.com/in/ronelgonzales5/',
   github: 'https://github.com/gronel',
-  instagram: 'https://www.linkedin.com/in/ronelgonzales5/',
+  instagram: 'https://www.instagram.com/ronel366/',
   facebook: 'https://www.facebook.com/gronel',
   twitter: 'https://twitter.com/1hanzla100',
 };
