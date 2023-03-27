@@ -32,7 +32,6 @@ export const socialLinks: SocialLinksType = {
   github: 'https://github.com/gronel',
   instagram: 'https://www.instagram.com/ronel366/',
   facebook: 'https://www.facebook.com/gronel',
-  twitter: 'https://twitter.com/1hanzla100',
 };
 
 export const skillsSection: SkillsSectionType = {
@@ -157,8 +156,12 @@ export const skillsSection: SkillsSectionType = {
           fontAwesomeClassName: 'logos:nginx',
         },
         {
-          skillName: 'Sentry',
-          fontAwesomeClassName: 'logos:sentry-icon',
+          skillName: 'Jenkins',
+          fontAwesomeClassName: 'logos:jenkins',
+        },
+        {
+          skillName: 'Vercel',
+          fontAwesomeClassName: 'logos:vercel',
         },
       ],
     },
@@ -276,8 +279,8 @@ export const seoData: SEODataType = {
   description:
     'A passionate Full Stack Web Developer and Blockchain Developer.',
   author: 'Ronel Gonzales',
-  image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
-  url: 'https://developer-portfolio-1hanzla100.vercel.app',
+  image: 'https://avatars.githubusercontent.com/u/4135303?v=4',
+  url: 'https://gronel-portfolio.vercel.app/',
   keywords: [
     'Ronel',
     'Ronel Gonzales',
