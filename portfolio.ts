@@ -103,6 +103,18 @@ export const skillsSection: SkillsSectionType = {
           skillName: 'Ionic',
           fontAwesomeClassName: 'vscode-icons:file-type-ionic',
         },
+        {
+          skillName: 'Nuxt',
+          fontAwesomeClassName: 'vscode-icons:file-type-nuxt',
+        },
+        {
+          skillName: 'Tailwind',
+          fontAwesomeClassName: 'vscode-icons:file-type-tailwind',
+        },
+        {
+          skillName: 'C Sharp',
+          fontAwesomeClassName: 'vscode-icons:file-type-csharp',
+        },
       ],
     },
     {
