@@ -1,0 +1,26 @@
+[
+    {
+          "relation": ["delegate_permission/common.handle_all_urls"],
+          "target" : {
+              "namespace": "android_app",
+              "package_name": "com.example.deeplink",
+              "sha256_cert_fingerprints": ["C8:2C:DB:EC:E7:34:A1:D6:C1:6B:FC:7E:FB:40:5F:A3:4C:41:90:FB:5C:A7:37:7A:00:1B:5E:2F:57:2C:5F:37"]
+          }
+    },
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : {
+            "namespace": "android_app",
+            "package_name": "com.example.deeplink",
+            "sha256_cert_fingerprints": ["E6:98:03:12:45:4C:EA:46:E4:E2:0A:77:D8:D0:CF:64:2D:76:0C:3A:6C:C0:E6:BA:8B:04:A1:11:E0:70:09:1D"]
+        }
+    },
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : {
+            "namespace": "android_app",
+            "package_name": "com.example.deeplink",
+            "sha256_cert_fingerprints": ["41:43:23:3A:13:3F:37:D7:35:91:68:D2:91:39:44:83:B5:CC:F8:E6:E5:D6:5B:9F:B5:3F:03:0C:6D:37:CE:EB"]
+        }
+    }
+]
